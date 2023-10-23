@@ -1,0 +1,7 @@
+C:\kms\새 폴더\bin\Release\net6.0\publish\새 폴더.exe
+C:\kms\새 폴더\bin\Release\net6.0\publish\appsettings.Development.json
+C:\kms\새 폴더\bin\Release\net6.0\publish\appsettings.json
+C:\kms\새 폴더\bin\Release\net6.0\publish\새 폴더.dll
+C:\kms\새 폴더\bin\Release\net6.0\publish\새 폴더.deps.json
+C:\kms\새 폴더\bin\Release\net6.0\publish\새 폴더.runtimeconfig.json
+C:\kms\새 폴더\bin\Release\net6.0\publish\새 폴더.pdb
